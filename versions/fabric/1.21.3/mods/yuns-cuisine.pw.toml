@@ -1,0 +1,13 @@
+name = "Yuns Cuisine"
+filename = "goldyheart-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6El7fetP/versions/4eOHh7x2/goldyheart-1.5.2.jar"
+hash-format = "sha512"
+hash = "dccd8e2202a6c1b45eb96cefca0ae9b335e25670ad09e6cd4be687ec23e47666d914814cdb626e0eb5e59206821d4e931f0b22560c88673f9042aad3e59c1a61"
+
+[update]
+[update.modrinth]
+mod-id = "6El7fetP"
+version = "4eOHh7x2"

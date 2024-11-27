@@ -1,0 +1,16 @@
+name = "TVP"
+author = "AmTurtle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f08144ad4fc1f2ac09f3474976e08e2f112ae2369e13a768107f0a7895be3043"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.3"
+
+[options]
+acceptable-game-versions = ["1.20.1", "1.21.1"]

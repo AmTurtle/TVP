@@ -1,0 +1,13 @@
+name = "Stoneworks"
+filename = "Stoneworks-v21.3.0-1.21.3-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/w1Uej1Vw/Stoneworks-v21.3.0-1.21.3-Fabric.jar"
+hash-format = "sha512"
+hash = "e3af7a249e05de4308f0c4172c9ea7fbdb97d62d247b147e3e3b8ed8864661976718c194e20f63f16933a92f5ff40cbe5738b98309df6cd40f09f1d67a0235ca"
+
+[update]
+[update.modrinth]
+mod-id = "FzyTKtVF"
+version = "w1Uej1Vw"

@@ -1,0 +1,13 @@
+name = "True Ending: Ender Dragon Music"
+filename = "true-ending-dragon-music-v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZltblCOt/versions/fAatoFaQ/true-ending-dragon-music-v1.zip"
+hash-format = "sha512"
+hash = "30358e1b4df6830fde5551ea5117280c3c1c40898a24d838a1798a87d47b982e3852e9d7fe9777dc64af454c3d579ff4e2bed8bdd51be156dae305e91abeb1ab"
+
+[update]
+[update.modrinth]
+mod-id = "ZltblCOt"
+version = "fAatoFaQ"

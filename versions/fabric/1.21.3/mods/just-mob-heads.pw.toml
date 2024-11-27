@@ -1,0 +1,13 @@
+name = "Just Mob Heads"
+filename = "justmobheads-1.21.3-8.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jzTUm9hE/versions/eDwKsLL0/justmobheads-1.21.3-8.3.jar"
+hash-format = "sha512"
+hash = "9bbee023e5bdcf73c20b598835f0dd7eb419c8efb5cc3e0b41bf0e693919c78ba07b27cb7c2df9cafd4b7314001388501f6a7452fe6af23ed2d06ed718a0cd4b"
+
+[update]
+[update.modrinth]
+mod-id = "jzTUm9hE"
+version = "eDwKsLL0"

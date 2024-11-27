@@ -1,0 +1,13 @@
+name = "Beautify: Refabricated"
+filename = "beautify-1.4.0+1.21.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/GYkoIvpU/beautify-1.4.0%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "fb5e670d730d73a45f0d9b4fc8041702051a98022cfe900bb90ac068bc6c0bbc627634726e2cb7cf7bd31e7654b6d42b0b460d9de1593dd9b65b479289e1ed44"
+
+[update]
+[update.modrinth]
+mod-id = "DhSSvaxs"
+version = "GYkoIvpU"

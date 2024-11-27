@@ -1,0 +1,13 @@
+name = "TrashSlot"
+filename = "trashslot-fabric-1.21.3-21.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/9XKkMQGQ/trashslot-fabric-1.21.3-21.3.3.jar"
+hash-format = "sha512"
+hash = "62eb2a0a1262aaf9d76e046bb3f00eda32200c11e55eeb52be21d5235fabca1e45977981f477ca6343215faeec534701e4664848c551b457463f889b2af250b5"
+
+[update]
+[update.modrinth]
+mod-id = "vRYk0bv7"
+version = "9XKkMQGQ"
